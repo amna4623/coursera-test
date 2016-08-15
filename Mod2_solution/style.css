@@ -68,12 +68,15 @@ p{
 		width: 100%
 	}
 	.chicken {
+		float: right;
 		text-align: center; 
 	}
 	.Beef {
+		float: right;
 		text-align: center;
 	}
 	.Sushi{
+		float: right;
 		text-align: center;
 	}
 }
@@ -81,31 +84,38 @@ p{
 {
 	.col-md-4{
 			width: 50%
-		}
+			}
 
 	.chicken {
 		text-align: center; 
+		float: right;
 	}
 	.Beef {
 		text-align: center;
+		float: right;
 	}
 	.Sushi{
+		float: right;
 		text-align: center;
 	}
 }
 @media (min-width: 992px)
 {
 		.col-md-4{
+			float: right;
 			width: 33.3%
 		}
-		
+
 	.chicken {
+		float: right;
 		text-align: center; 
 	}
 	.Beef {
+		float: right;
 		text-align: center;
 	}
 	.Sushi{
+		float: right;
 		text-align: center;
 	}
 }
