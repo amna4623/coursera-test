@@ -4,7 +4,7 @@ body{
 
 }
 h1 {
-	float: centre;
+	text-align: -webkit-center;
 }
 h3 {
 	float: right;
