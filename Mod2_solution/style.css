@@ -1,12 +1,16 @@
 body, html{
-
+	background-color: #0000;
+}
+h1 {
+	float: centre;
+}
 h3 {
 	float: right;
 }
 .Chicken {
-	
+
 }
-}
+
 
 @media (max-width: 767px)
 {
