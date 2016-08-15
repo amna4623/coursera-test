@@ -36,7 +36,7 @@ h3 {
 	float: left;
 }
 .Chicken {
-  position: static;
+  position: relative;
   border: 1px solid black; 
   background-color: grey; 
   width: 310px;
@@ -50,7 +50,7 @@ h3 {
   width: 310px;
   height: 165px;
   margin: 50px; 
-  position: static;
+  position: relative;
 }
 
 .Sushi {
@@ -59,7 +59,7 @@ h3 {
   width: 310px;
   height: 165px;
   margin: 50px;
-  position: static;
+  position: relative;
 }
 p{
 	
