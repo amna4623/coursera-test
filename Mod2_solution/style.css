@@ -10,11 +10,24 @@ h3 {
 	float: right;
 }
 .Chicken {
-
+  border-radius: 2px;
+  border-color: blue;
+  width: 100px;
 }
 
+.Beef {
+  border-radius: 2px;
+  border-color: blue;
+  width: 100px;
+}
 
-	<link rel="stylesheet" type="text/css" href="Mod2_solution/style.css">
+.Sushi {
+  border-radius: 2px;
+  border-color: blue;
+  width: 100px;
+}
+
+	
 
 @media (max-width: 767px)
 {
