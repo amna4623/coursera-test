@@ -41,7 +41,7 @@ h3 {
   height: 165px;
   margin: 50px;  
 }
-h3.Chicken{
+.Chicken h3{
 	background-color: pink;
 	color: lightblue;
 }
