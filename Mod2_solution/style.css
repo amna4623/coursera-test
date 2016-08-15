@@ -89,10 +89,12 @@ p{
 @media (min-width: 768px) and (max-width: 991px)
 {
 	.col-md-6{
-
+		position: relative;
+		overflow: hidden;
 			}
 	.col-md-12{
-
+		position: relative;
+		overflow: hidden;
 			}
 	.chicken {
 		text-align: center; 
@@ -110,7 +112,9 @@ p{
 @media (min-width: 992px)
 {
 		.col-lg-4{
-
+			
+		position: relative;
+		overflow: hidden;
 		}
 
 	.chicken {
