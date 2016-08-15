@@ -77,15 +77,12 @@ p{
 		width: 100%
 	}
 	.chicken {
-		float: right;
 		text-align: center; 
 	}
 	.Beef {
-		float: right;
 		text-align: center;
 	}
 	.Sushi{
-		float: right;
 		text-align: center;
 	}
 }
