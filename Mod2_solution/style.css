@@ -97,14 +97,13 @@ p{
 
 	.chicken {
 		text-align: center; 
-		float: right;
+	
 	}
 	.Beef {
 		text-align: center;
-		float: right;
+	
 	}
 	.Sushi{
-		float: right;
 		text-align: center;
 	}
 }
@@ -116,15 +115,12 @@ p{
 		}
 
 	.chicken {
-		float: right;
 		text-align: center; 
 	}
 	.Beef {
-		float: right;
 		text-align: center;
 	}
 	.Sushi{
-		float: right;
 		text-align: center;
 	}
 }
