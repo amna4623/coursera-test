@@ -91,7 +91,9 @@ p{
 	.col-md-4{
 			width: 50%
 			}
-
+	.col-md-12{
+			width: 100%
+			}
 	.chicken {
 		text-align: center; 
 	
