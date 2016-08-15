@@ -43,7 +43,7 @@ h3 {
 }
 .Chicken h3{
 	background-color: pink;
-	color: lightblue;
+	color: darkblue;
 }
 .Beef {
   border: 1px solid black; 
@@ -53,6 +53,10 @@ h3 {
   margin: 50px; 
   position: relative;
 }
+.Beef h3{
+	background-color: purple;
+	color: darkred;
+}
 
 .Sushi {
   border: 1px solid black; 
@@ -61,6 +65,10 @@ h3 {
   height: 165px;
   margin: 50px;
   position: relative;
+}
+.Sushi h3{
+	background-color: lightblue;
+	color: darkgreen;
 }
 p{
 	
