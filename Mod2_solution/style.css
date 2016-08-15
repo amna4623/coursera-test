@@ -112,7 +112,7 @@ p{
 @media (min-width: 992px)
 {
 		.col-lg-4{
-			
+		width: 33.3%
 		position: relative;
 		overflow: hidden;
 		}
