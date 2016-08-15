@@ -20,6 +20,9 @@ h3 {
 .row{
 	width: 100%;
 }
+.col-lg-4 {
+	float: left;
+}
 .Chicken {
   border: 2px solid black; 
   background-color: grey; 
