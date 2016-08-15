@@ -112,7 +112,6 @@ p{
 @media (min-width: 992px)
 {
 		.col-lg-4{
-			box-sizing: border-box;
 		position: relative;
 		overflow: hidden;
 		}
