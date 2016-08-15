@@ -8,6 +8,9 @@ h1 {
 }
 h3 {
 	float: right;
+	color: red;
+	border: 2px solid black;
+
 }
 .Chicken {
   border-radius: 2px;
