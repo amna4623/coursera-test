@@ -14,22 +14,24 @@ h3 {
 }
 .Chicken {
   border: 2px solid red; 
-  border-color: blue;
   width: 100px;
 }
 
 .Beef {
   border: 2px solid red;
-  border-color: blue;
   width: 100px;
 }
 
 .Sushi {
   border: 2px solid red;
-  border-color: blue;
   width: 100px;
 }
+p{
+	border: 2px solid black;
+	width: 30%;
+	height: 500px;
 
+}
 	
 
 @media (max-width: 767px)
