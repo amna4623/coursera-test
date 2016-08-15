@@ -28,7 +28,7 @@ h3 {
   background-color: grey; 
   width: 320px;
   height: 165px;
-  
+  margin: 65px;  
 }
 
 .Beef {
@@ -36,7 +36,7 @@ h3 {
   background-color: grey;
   width: 320px;
   height: 165px;
-  
+  margin: 65px; 
 }
 
 .Sushi {
@@ -44,7 +44,7 @@ h3 {
   background-color: grey;
   width: 320px;
   height: 165px;
-  
+  margin: 65px;
 }
 p{
 	
