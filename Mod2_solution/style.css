@@ -13,19 +13,19 @@ h3 {
 
 }
 .Chicken {
-  border-radius: 2px;
+  border: 2px solid red; 
   border-color: blue;
   width: 100px;
 }
 
 .Beef {
-  border-radius: 2px;
+  border: 2px solid red;
   border-color: blue;
   width: 100px;
 }
 
 .Sushi {
-  border-radius: 2px;
+  border: 2px solid red;
   border-color: blue;
   width: 100px;
 }
