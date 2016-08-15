@@ -39,7 +39,7 @@ h3 {
   position: static;
   border: 1px solid black; 
   background-color: grey; 
-  width: 350px;
+  width: 310px;
   height: 165px;
   margin: 50px;  
 }
@@ -47,7 +47,7 @@ h3 {
 .Beef {
   border: 1px solid black; 
   background-color: grey;
-  width: 350px;
+  width: 310px;
   height: 165px;
   margin: 50px; 
   position: static;
@@ -56,7 +56,7 @@ h3 {
 .Sushi {
   border: 1px solid black; 
   background-color: grey;
-  width: 350px;
+  width: 310px;
   height: 165px;
   margin: 50px;
   position: static;
